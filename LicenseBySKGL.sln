@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseBySKGL", "LicenseBySKGL\LicenseBySKGL.csproj", "{17DD60E9-1D43-4242-831D-95839A7B4DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DD60E9-1D43-4242-831D-95839A7B4DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DD60E9-1D43-4242-831D-95839A7B4DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DD60E9-1D43-4242-831D-95839A7B4DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DD60E9-1D43-4242-831D-95839A7B4DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838C01F1-7210-4B06-8CC7-5D379E1BD6D7}
+	EndGlobalSection
+EndGlobal
