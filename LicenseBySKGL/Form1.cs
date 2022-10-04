@@ -16,5 +16,11 @@ namespace LicenseBySKGL
         {
             InitializeComponent();
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+            Console.WriteLine("Hello world");
+            textBox1.Text = "Hello world";
+        }
     }
 }
